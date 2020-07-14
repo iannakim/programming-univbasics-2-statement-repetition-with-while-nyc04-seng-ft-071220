@@ -3,5 +3,5 @@ count = 10
 while count >= 1 && count != count_down_stop do
 	puts "#{count}"
 count -= 1
-puts "Happy New Year!"
 end
+puts "Happy New Year!"
